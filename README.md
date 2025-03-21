@@ -4,7 +4,7 @@ The purpose of this project is to learn Java but also build an expense tracker. 
 
 This project, written in Java, is an expense tracker. I felt building this would help me understand how the Java language works and its differences from Javascript.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/DkVFibgdtg0
 
 # Development Environment
 
@@ -13,8 +13,6 @@ The tools I used to develop this program were VS Code and a few Java extensions 
 I used Java to write this program. It is a similar language to C or C++.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - Java (programming language) Wikipediahttps://en.wikipedia.org/wiki/Java_(programming_language)
 - Java Tutorial W3Schools https://www.w3schools.com/java/default.asp
